@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pss-0501 i.e. Prathamesh Sawant
-- 👀 I’m interested in Software and Web devlopement
-- 🌱 I’m currently learning React and Typescript. I am graduate student at Binghamton University SUNY
+- 👀 I’m interested in Software and Web devlopement & I have 2 years 8 months of work experience in software development
+- 🌱 I’m currently learning React and Typescript. I am a graduate student at Binghamton University SUNY pursuing masters degree in Information Systems
 - 💞️ I’m looking to collaborate on web development projects & also I am looking for summer intership 2024 in software engineering & software development
 - 📫 How to reach me: psawant507@gmail.com
 
