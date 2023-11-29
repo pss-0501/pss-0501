@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React and Typescript. I am a graduate student at Binghamton University SUNY pursuing masters degree in Information Systems
 - 💞️ I’m looking to collaborate on web development projects & also I am looking for summer intership 2024 in software engineering & software development
 - 📫 How to reach me: psawant507@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/p-s-s-s/
 
 <!---
 pss-0501/pss-0501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
