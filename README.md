@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Prathamesh Sawant
 
-I am a passionate Software Engineer with 2 years and 8 months of work experience in software development. Currently, I am pursuing a master's degree in Information Systems at Binghamton University SUNY.
+I am a passionate Software Engineer with 2 years and 8 months of work experience in software development. Currently, I am pursuing a Master's degree in Information Systems at State University of New York, Binghamton University.
 
 ## 🚀 Skills
 - Python
