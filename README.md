@@ -6,15 +6,20 @@ I am a passionate Software Engineer with 2 years and 8 months of work experience
 ## 🚀 Skills
 - Software Engineering
 - Web Development
+- Python
+- C#
+- Asp.Net
 - React
+- JavaScript
 - TypeScript
 
 ## 🌱 Currently Learning
 - React
 - TypeScript
+- MERN Stack (MongoDb, Express.js, React.js, Node.js)
 
 ## 👨‍💻 Experience
-- [Insert Previous Company/Projects and Duration]
+- I am an Innovative Software Developer with 2.8 years of hands-on experience designing and testing applications. Well-versed in Agile methodologies and coding languages. Dedicated to developing creative solutions to meet business goals and requirements.
 
 ## 💼 Looking for Opportunities
 I am actively seeking a summer internship in 2024 in the fields of Software Engineering and Software Development.
