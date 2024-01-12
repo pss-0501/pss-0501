@@ -4,12 +4,11 @@
 I am a passionate Software Engineer with 2 years and 8 months of work experience in software development. Currently, I am pursuing a master's degree in Information Systems at Binghamton University SUNY.
 
 ## 🚀 Skills
-- Software Engineering
-- Web Development
 - Python
 - C#
+- SQL
 - Asp.Net
-- React
+- React.js
 - JavaScript
 - TypeScript
 
