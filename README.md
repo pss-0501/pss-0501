@@ -30,6 +30,7 @@ I'm interested in collaborating on web development projects. Feel free to reach 
 - Email: [psawant507@gmail.com](mailto:psawant507@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/p-s-s-s/)
 - Web Portfolio: [Web Portfolio](https://pss-0501.github.io/)
+- Leet Code: [Leet Code Profile](https://leetcode.com/KingCoder0501/)
 
 Looking forward to connecting with fellow developers and working on innovative projects! 😊
 
