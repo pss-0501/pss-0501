@@ -21,7 +21,7 @@ I am a passionate Software Engineer with 2 years and 8 months of work experience
 - I am an Innovative Software Developer with 2.8 years of hands-on experience designing and testing applications. Well-versed in Agile methodologies and coding languages. Dedicated to developing creative solutions to meet business goals and requirements.
 
 ## 💼 Looking for Opportunities
-I am actively seeking a summer internship in 2024 in the fields of Software Engineering and Software Development.
+I am actively seeking a summer internship in 2024 in the fields of Software Engineering, Software Development, Web Developer and Data Analyst roles.
 
 ## 🤝 Let's Collaborate!
 I'm interested in collaborating on web development projects. Feel free to reach out if you have exciting projects in mind!
