@@ -7,7 +7,7 @@ I am a passionate Software Engineer with 2 years and 8 months of work experience
 - Python
 - C#
 - SQL
-- Asp.Net
+- Asp.Net Core & MVC
 - React.js
 - JavaScript
 - TypeScript
